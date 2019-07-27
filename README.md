@@ -6,8 +6,8 @@
 # 如何開始專案
 ### Step 1
 #### clone 專案
-```
-git clone https://github.com/raymondhongray/aotter-simple-demo.git
+``` bash
+$ git clone https://github.com/raymondhongray/aotter-simple-demo.git
 ```
 
 ### Step 2
