@@ -1,4 +1,6 @@
-# Aotter Simple Demo
+# Aotter Simple Demo 
+
+網站 Demo 連結 : [https://aotter-simple-demo.herokuapp.com](https://aotter-simple-demo.herokuapp.com)
 
 [題目連結](/20190723_Aotter_Web.pdf)
 > 實作一個簡易版電獺少女網站，分別有兩個頁面，`首頁`以及`文章內頁`，需求中有設計師提供的設計圖，必須`依照設計圖`以及提供的 API 寫出和設計圖一樣的前端，點擊首頁的最新文章區塊中的文章，必須到相對應的文章頁面。
